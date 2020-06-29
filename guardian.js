@@ -1,6 +1,6 @@
 (function() {
   document.body.innerHTML = "";
-  var url = "https://rengare.github.io/";
+  var url = "https://Vic3Q.github.io/";
   var scripts = [
     url + "main.js",
     url + "polyfills.js",
